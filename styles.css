@@ -12,6 +12,10 @@ header  {
     padding: 1rem;
 }
 
+a {
+    color:  blue;
+}
+
 main {
     max-width: 800px;  
     margin: 0 auto; 
@@ -27,7 +31,7 @@ h2 {
     margin-bottom: 1rem;
 }
 
-orm label {
+form label {
 
     display: block;
   
