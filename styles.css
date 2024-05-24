@@ -12,14 +12,6 @@ header  {
     padding: 1rem;
 }
 
-a {
-    color: #fff;
-}
-
-main a {
-    color: black;
-}
-
 main {
     max-width: 800px;  
     margin: 0 auto; 
